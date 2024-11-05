@@ -17,6 +17,7 @@ Hints:
 This challenge is only to get familiar with the string formats.
 
 The first question expect an answer where the length of the string chosen is two times longer than the size of the input buffer.
+
 ```c
 int count = printf(choice1);
 if (count > 2 * BUFSIZE) {

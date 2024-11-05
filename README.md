@@ -1,6 +1,13 @@
-solved challenges:
+solved challenges (some of them are only placeholders):
 - [format-string-0](practice/format-string-0.md)
+- [format-string-1](practice/format-string-1.md)
+- [format-string-2](practice/format-string-2.md)
+- [format-string-3](practice/format-string-3.md)
 - [heap-0](practice/heap-0.md)
 - [heap-1](practice/heap-1.md)
 - [heap-2](practice/heap-2.md)
 - [heap-3](practice/heap-3.md)
+- [Local Target](practice/local-target.md)
+- [Picker IV](practice/picker-iv.md)
+- [two-sum](practice/two-sum.md)
+- [VNE](practice/vne.md)
